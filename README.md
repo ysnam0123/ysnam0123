@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 <!--
 **ysnam0123/ysnam0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
