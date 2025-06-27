@@ -26,6 +26,16 @@
 
 ---
 
+## 🛠️ Projects
+
+| 프로젝트명 | 설명 | 링크 |
+|------------|------|------|
+| ✨ DocMate | 할 일 관리 앱 | [🔗 GitHub](https://github.com/...) |
+| 🎁 TravelMate | 기간을 선택하면 여행장소를 추천해주는 앱 | [🔗 GitHub](https://github.com/...) |
+| 📰 NewsDocs | Vue + Supabase로 만든 뉴스 카드 서비스 | [🔗 GitHub](https://github.com/...) |
+
+---
+
 ## 📈 GitHub Stats
 
 ![Yoonseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysnam0123&theme=dark&show_icons=true)
@@ -40,24 +50,3 @@
 
 ---
 
-> 🧡 “기술은 따뜻할 때 가장 빛나요.”
-
-
-
-
-
-
-<!--
-**ysnam0123/ysnam0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
