@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7C51A&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%82%A8%EC%9C%A4%EC%84%9C%EC%9E%85%EB%8B%88%EB%8B%A4!%F0%9F%8D%A5)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=90E0EF&width=435&lines=%EC%88%9C%EC%88%9C%ED%95%9C+%EB%A7%88%EC%9D%8C%EC%9C%BC%EB%A1%9C+%EA%B0%95%ED%95%9C+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%8B%B6%EC%96%B4%EC%9A%94.)](https://git.io/typing-svg)
+
+## 🙋‍♀️ About Me
+- 💻 프론트엔드 개발자 꿈나무, 성장하는 중입니다!
+- 🌱 현재는 **React, Next.js, TypeScript**에 집중하고 있어요.
+- 🌍 세상을 더 따뜻하게 연결하는 서비스를 만들고 싶어요.
+- ✨ 관심 분야: 창의적인 웹서비스
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
