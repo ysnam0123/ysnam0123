@@ -1,6 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7C51A&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%82%A8%EC%9C%A4%EC%84%9C%EC%9E%85%EB%8B%88%EB%8B%A4!%F0%9F%8D%A5)](https://git.io/typing-svg)
-
 ---
 
 ## 🙋‍♀️ About Me
