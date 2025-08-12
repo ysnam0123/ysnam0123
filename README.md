@@ -48,7 +48,7 @@
 
 ## ✉️ Contact
 
-[![Gmail](https://img.shields.io/badge/ysnam0123@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ysnam0123@gmail.com)
+[![Gmail](https://img.shields.io/badge/ysnam0123@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ysnam0123@naver.com)
 [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ysnam0123)
 
 ---
