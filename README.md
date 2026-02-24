@@ -34,7 +34,7 @@
 
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
-| ✨ DocMate | 할 일 관리 앱 | [🔗 GitHub](https://github.com/...) |
+| 🏎️ AfterLap | F1 일정 확인 어플리케이션 | [🔗 GitHub]([https://github.com/...](https://github.com/ysnam0123/AfterLap)) |
 | 🎁 TravelMate | 기간을 선택하면 여행장소를 추천해주는 앱 | [🔗 GitHub](https://github.com/...) |
 | 📰 NewsDocs | Vue + Supabase로 만든 뉴스 카드 서비스 | [🔗 GitHub](https://github.com/...) |
 | 🏆 Routie | Next.js 를 이용한 루틴 관리 어플리케이션 | [🔗 GitHub](https://github.com/...) |
