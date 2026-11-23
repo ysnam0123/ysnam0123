@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Yunseo%20Nam&fontSize=60&fontColor=F8FAFC&fontAlignY=38&desc=Frontend%20Developer%20%40%20HanaLoop&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Yoonseo%20Nam&fontSize=60&fontColor=F8FAFC&fontAlignY=38&desc=Fullstack%20Developer%20%40%20HanaLoop&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <p align="center">
   탄소회계 SaaS의 프론트엔드를 만들고 있습니다.<br/>
